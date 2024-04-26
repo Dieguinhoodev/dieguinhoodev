@@ -8,3 +8,13 @@
 <p align="center">
   <img src="https://visitcount.itsvg.in/api?id=Dieguinhoodev&icon=0&color=0" alt="Visitor Count">
 </p>
+
+<div style="display: flex; align-items: center;">
+  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="Python" width="120" height="120" style="margin-right: 10px;">
+  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="HTML" width="120" height="120" style="margin-right: 10px;">
+  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="CSS" width="120" height="120" style="margin-right: 10px;">
+  <img src="https://raw.githubusercontent.com/github/explore/f3e22f0dca2be955676bc70d6214b95b13354ee8/topics/c/c.png" alt="C" width="120" height="120" style="margin-right: 10px;">
+  <a href="https://discord.gg/YOUR_DISCORD_SERVER_INVITE_LINK" target="_blank">
+    <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/discord/discord.png" alt="Discord" width="120" height="120" style="margin-right: 10px;">
+  </a>
+</div>
