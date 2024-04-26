@@ -5,6 +5,6 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Dieguinhoodev&theme=highcontrast&hide_border=false" alt="Dieguinhoodev's GitHub streak">
 </div>
 
-<div style="text-align: center; margin-top: 20px;">
-  
-</div>
+<p align="center">
+  <img src="https://visitcount.itsvg.in/api?id=Dieguinhoodev&icon=0&color=0" alt="Visitor Count">
+</p>
